@@ -42,7 +42,7 @@ In order to complete that exercise, we would like to formulate the following tas
 
 <em>Note</em>: we would recommend you to consider employing tools/services and languages we use:
 - DSL/Programming language: <strong>Python (ver. >= 3.7.4)</strong>
-- ML Frameworks: <strong>tensorflow 2.0</strong>, <strong>GluonTS (ver. >= 0.3.4)</strong>
+- ML Frameworks/libraries: <strong>TensorFlow 2.0</strong>, <strong>GluonTS (ver. >= 0.3.4)</strong>
 - <strong>Docker</strong> (ver. >= 19)
 
 Good luck and hopefully see you soon in our headquarters for onsite interview.
